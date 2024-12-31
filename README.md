@@ -35,10 +35,8 @@ import pandas as pd # to work with datasets
 import matplotlib.pyplot as plt # used for plotting simple 2D graphs
 import seaborn as sns # visualization library based on matplotlib
 import re # library to work on string manipulation
-# pandas configures display options to control how data is presented when displaying DataFrames in a Jupyter notebook or other interactive environments
 pd.options.display.float_format = '{:.2f}'.format # Ensures floating-point numbers are displayed with two decimal places instead of the default format
-pd.options.display.max_columns = None # Removes any limitation on the number of columns displayed when printing a DataFrame.
-
+pd.options.display.max_columns = None 
 # we can ignore warnings that arise because of any incompatabile versions
 warnings.filterwarnings('ignore')
 
