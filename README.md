@@ -1,12 +1,15 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending club case study
+> Analyzing loan data to predict default risk. We'll delve into data cleaning, analysis, and key insights that can help lenders make informed decisions.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Business Understanding
+* Importing Libraries
+* Data Preparation
+    . Data Cleaning
+    . Outlier Treatment
+    . Data Imputation
+* Data Analysis
 
 <!-- You can include any other section that is pertinent to your problem -->
 
