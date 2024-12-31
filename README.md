@@ -37,7 +37,6 @@ import seaborn as sns # visualization library based on matplotlib
 import re # library to work on string manipulation
 pd.options.display.float_format = '{:.2f}'.format # Ensures floating-point numbers are displayed with two decimal places instead of the default format
 pd.options.display.max_columns = None 
-# we can ignore warnings that arise because of any incompatabile versions
 warnings.filterwarnings('ignore')
 
 ## Data Understanding
@@ -54,3 +53,5 @@ warnings.filterwarnings('ignore')
 ## Data Analysis & visualization
 
 To identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA to get more insights with different types of scatter plot,boxplot,histograms and countplot
+
+
