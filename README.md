@@ -6,11 +6,11 @@
 * Business Understanding
 * Importing Libraries
 * Data Understanding
-      . Importing Data
-      . Data Info
+      1. Importing Data
+      2. Data Info
 * Data Preparation
-    . Data Cleaning
-    . Outlier Treatment
-    . Data Imputation
-* Data Analysis
+    1. Data Cleaning
+    2. Outlier Treatment
+    3. Data Imputation
+* Data Analysis & visualization
 
