@@ -6,8 +6,8 @@
 * Business Understanding
 * Importing Libraries
 * Data Understanding
-      1. Importing Data
-      2. Data Info
+    1. Importing Data
+    2. Data Info
 * Data Preparation
     1. Data Cleaning
     2. Outlier Treatment
